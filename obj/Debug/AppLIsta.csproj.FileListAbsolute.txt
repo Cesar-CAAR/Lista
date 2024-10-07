@@ -1,0 +1,8 @@
+C:\Users\cisco01\Desktop\cesar\lista\AppLIsta\bin\Debug\AppLIsta.exe.config
+C:\Users\cisco01\Desktop\cesar\lista\AppLIsta\bin\Debug\AppLIsta.exe
+C:\Users\cisco01\Desktop\cesar\lista\AppLIsta\bin\Debug\AppLIsta.pdb
+C:\Users\cisco01\Desktop\cesar\lista\AppLIsta\obj\Debug\AppLIsta.csproj.AssemblyReference.cache
+C:\Users\cisco01\Desktop\cesar\lista\AppLIsta\obj\Debug\AppLIsta.csproj.SuggestedBindingRedirects.cache
+C:\Users\cisco01\Desktop\cesar\lista\AppLIsta\obj\Debug\AppLIsta.csproj.CoreCompileInputs.cache
+C:\Users\cisco01\Desktop\cesar\lista\AppLIsta\obj\Debug\AppLIsta.exe
+C:\Users\cisco01\Desktop\cesar\lista\AppLIsta\obj\Debug\AppLIsta.pdb
